@@ -1,0 +1,2 @@
+---- ref ADC_Common_mode Matches (1 in 1 files) ----
+{anonADC_CommonInitTypeDef} in stm32f4xx_adc.h (C:\Users\34812\Desktop\hq STM32 project\1111\libraries\STM32F4xx_StdPeriph_Driver\inc) :                                                This parameter can be a value of @ref ADC_Common_mode */                                              
